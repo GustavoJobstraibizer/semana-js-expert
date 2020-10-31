@@ -1,0 +1,6 @@
+component: website
+name: bandersnatch-site
+stage: dev
+inputs:
+    src:
+        src: .
